@@ -5,7 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  {:animal => cat}
+  {:animal => "cat"}
 end
 
 def pioneer
